@@ -1,0 +1,14 @@
+{
+  "name": "ion-loader",
+  "version": "0.0.1",
+  "description": "A webpack loader for the ion language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Lulkin <maiz@lulk.in> (https://medium.com/@joaomilho/)",
+  "license": "ISC",
+  "dependencies": {
+    "@ion-lang/ion": "git+https://github.com/ion-lang/ion.git"
+  }
+}
