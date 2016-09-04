@@ -9,6 +9,6 @@
   "author": "Juan Lulkin <maiz@lulk.in> (https://medium.com/@joaomilho/)",
   "license": "ISC",
   "dependencies": {
-    "@ion-lang/ion": "git+https://github.com/ion-lang/ion.git"
+    "@ion-lang/ion": "0.0.1"
   }
 }
